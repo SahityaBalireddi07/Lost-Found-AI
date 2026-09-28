@@ -1,0 +1,6 @@
+{
+  "name": "Lost & Found AI",
+  "description": "Smart campus lost and found platform for college students to report, browse, and automatically match lost and found belongings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
